@@ -15,14 +15,14 @@ An online library management system developed with Laravel, designed specificall
 - **Digital Resource Management:** Upload, categorize, and organize various digital resources.
 - **Search & Filter:** Advanced search and filtering to quickly access specific resources.
 - **Access Control:** Role-based permissions to secure resources and administrative functions.
-- **Borrowing System:** Functionality for students to borrow and access resources.
-- **Notifications:** Alerts for due dates and other important updates.
+- **Borrowing System:** Functionality for students to access resources.
+- **Notifications:** Alerts for other important updates.
 
 ## Requirements
 
-- **PHP**: Version 8.0 or higher
-- **Laravel**: Version 11
-- **Database**: MySQL or PostgreSQL
+- **PHP**: Version 8.1 or higher
+- **Laravel**: Version 10
+- **Database**: MySQL
 - **Node.js and npm**: For managing frontend assets
 - **Composer**: Dependency manager for PHP
 
